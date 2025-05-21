@@ -1,30 +1,34 @@
-# 🧪 Proyecto de Testing
+# 🧪 Proyecto de Testing Manual
 
-Este repositorio contiene ejemplos de documentación, casos de prueba y reporte de incidencias desarrollados durante mi formación como Tester en el programa Jóvenes a Programar.
-
----
-
-## 🛠️ Herramientas utilizadas
-- **Excel**: Diseño y ejecución de casos de prueba
-- **Word**: Documentación de resultados y manuales
-- **Mantis**: Reporte de incidencias
-- **Trello**: Gestión de tareas en equipo
-- **Canvas**: Presentación de resultados
+Este repositorio contiene documentación relacionada con pruebas funcionales realizadas durante mi formación como Tester.  
+Incluye ejemplos reales de análisis, diseño de casos de prueba, reporte de incidencias y documentación entregada en proyectos educativos y prácticos.
 
 ---
 
 ## 📂 Contenido del repositorio
-- `casos-de-prueba.xlsx`: Plan de pruebas funcionales
-- `reporte-incidencias.pdf`: Registro de bugs detectados
-- `manual-usuario.docx`: Manual funcional de usuario
-- `capturas/`: Imágenes y evidencias de pruebas realizadas
+
+- ✅ Casos de prueba funcionales (formato PDF)
+- 🐞 Reportes de errores/incidencias
+- 📄 Documentación de testing y evidencias
+- 👩‍💻 Informes elaborados en el marco del curso y la pasantía
 
 ---
 
-## 👩‍💻 Autora
+## 🛠️ Herramientas utilizadas
+
+- Excel / Word / PDF
+- Mantis
+- Trello
+- PowerPoint
+- Canva
+
+---
+
+## 👤 Autora
 
 **Arianna Delgado**  
 Tester Junior  
 📧 delgadoariannabelen@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/arianna-delgado)  
+🔗 [LinkedIn](https://www.linkedin.com/in/arianna-delgado)  
+
 
